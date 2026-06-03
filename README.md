@@ -18,9 +18,7 @@ SDG 4 – Quality Education
 - Dialogflow
 - NLP
 - Google Cloud
-
-## Screenshots
-Screenshots are available in the screenshots folder.
+  
 
 ## Author
 Sanket Kolhe
